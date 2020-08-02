@@ -9,6 +9,7 @@
 
 - 🔭 I am currently working with desktop software development
 - 🌱 I am currently learning desktop and web software development, both frontend and backend. Using technologies as a Java, Javascript, C#, SpringBoot, NodeJs, among other technologies
+- 🎓 Student in higher education in Systems Analysis and Development
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santos-gabriel)](https://github.com/santos-gabriel)
