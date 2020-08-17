@@ -12,8 +12,8 @@
 - 🎓 Student in higher education in Systems Analysis and Development
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santos-gabriel)](https://github.com/santos-gabriel)
-![Statistics](https://github-readme-stats.vercel.app/api?username=santos-gabriel&show_icons=true&theme=dracula)
+<!--[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santos-gabriel)](https://github.com/santos-gabriel)-->
+<!--![Statistics](https://github-readme-stats.vercel.app/api?username=santos-gabriel&show_icons=true&theme=dracula)-->
 
 
 
