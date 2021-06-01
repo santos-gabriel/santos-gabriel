@@ -11,4 +11,4 @@
 - 🌱 I am currently learning web software development, both frontend and backend. Using technologies as a Java, Javascript, SpringBoot, NodeJs, React, among other technologies
 - 🎓 Graduate in Systems Analysis and Development
 
-![Snake animation](santos-gabriel)
+![Snake animation](https://github.com/santos-gabriel)
