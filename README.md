@@ -2,7 +2,7 @@
 # Gabriel dos Santos :man_technologist:
 ### Hello! Welcome to my profile
 
-- 🔭 I am currently working with desktop software development, Web e API's
+- 🔭 I am currently working with desktop software development, Web and API's
 - 🌱 I am currently learning web software development, both frontend and backend. Using technologies as a Java, Javascript, SpringBoot, NodeJs, React, among other technologies
 - 🎓 Graduate in Systems Analysis and Development
 
