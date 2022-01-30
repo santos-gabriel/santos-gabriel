@@ -2,9 +2,9 @@
 # Gabriel dos Santos :man_technologist:
 ### Hello! Welcome to my profile
 
-- 🔭 I am currently working with desktop software development, Web and API's
-- 🌱 I am currently learning web software development, both frontend and backend. Using technologies as a Java, Javascript, SpringBoot, NodeJs, React, among other technologies
-- 🎓 Graduate in Systems Analysis and Development
+- 🔭 I am currently working with desktop software development, Web and API's.
+- 🌱 I am currently learning mobile software development. Using technologies as a Dart, Flutter.
+- 🎓 Graduate in Systems Analysis and Development.
 
 
  <div>
@@ -12,15 +12,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santos-gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-gabriel&layout=compact&langs_count=16&theme=dracula"/>
 <div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display: inline_block"><br>  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-  <!--<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">      
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <!--<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->  
+  <img align="center" alt="CSS" height="35" width="50" src="https://user-images.githubusercontent.com/42524755/151708466-2a5af144-e9e8-483b-b72a-8fb0c9e4a6ec.png">    
+  <img align="center" alt="CSS" height="30" width="50" src="https://user-images.githubusercontent.com/42524755/151708470-9b6e3a32-6573-4950-88ff-db6e970dfd01.png">    
+  <!--<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">--> 
 </div>
   
   ##
