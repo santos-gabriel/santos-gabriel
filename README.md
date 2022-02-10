@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="https://gabrieldossantos.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-WebSite-f27405?style=for-the-badge&logo=WebSite&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-WebSite-%23333?style=for-the-badge&logo=Instatus&logoColor=white" target="_blank">
   </a>
  
   ![Snake animation](https://github.com/santos-gabriel/santos-gabriel/blob/output/github-contribution-grid-snake.svg)
