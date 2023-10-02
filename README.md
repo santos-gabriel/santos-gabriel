@@ -3,7 +3,7 @@
 ### Hello! Welcome to my profile
 
 - 🔭 I am currently working with full-stack software development.
-- 🌱 I am currently learning software architecture on FIAP.
+- 🌱 I am currently learning Software Architecture on FIAP.
 - 🎓 Graduate in Systems Analysis and Development.
 
 
